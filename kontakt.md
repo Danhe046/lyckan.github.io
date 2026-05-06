@@ -16,7 +16,7 @@ Tveka inte att höra av dig om du har frågor eller funderingar. Du är varmt v�
   <div class="contact-card">
     <div class="icon">📍</div>
     <h3>Adress</h3>
-    <p>Näshult<br>Vetlanda kommun<br>Småland</p>
+    <p><a href="https://www.google.com/maps/search/?api=1&query=Kyrkv%C3%A4gen+34%2C+364+33+%C3%85seda" target="_blank" rel="noopener">Kyrkvägen 34, Näshult<br>364 33 Åseda</a></p>
   </div>
 
   <div class="contact-card">
