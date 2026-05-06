@@ -28,7 +28,7 @@ Tveka inte att höra av dig om du har frågor eller funderingar. Du är varmt v�
   <div class="contact-card">
     <div class="icon">📞</div>
     <h3>Telefon</h3>
-    <p><em>Kontakta oss via e-post för telefonnummer</em></p>
+    <p><em>0383-82075</em></p>
   </div>
 </div>
 

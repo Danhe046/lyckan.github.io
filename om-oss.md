@@ -20,8 +20,8 @@ Lyckans faciliteter är fantastiska! Men det som gör denna förskola magisk, de
 
 Barnen är indelade i åldersgrupper men umgås ofta över gränserna, för allas nöjes skull:
 
-- **Nassegruppen** – de yngsta barnen (nedervåningen)
-- **Nalle Puh-gruppen** – de äldre förskolebarnen (övervåningen)
+- **Igelkottarna** – de yngsta barnen (nedervåningen)
+- **Ugglorna** – de äldre förskolebarnen (övervåningen)
 - **Fritidsbarnen** – har egna områden och aktiviteter
 
 ## Vill du veta mer?

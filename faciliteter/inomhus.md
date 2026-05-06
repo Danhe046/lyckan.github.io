@@ -14,17 +14,17 @@ I matsalen finns ett pysselbord och en lekhörna som nyttjas av alla grupperna. 
 
 ![Köket på Lyckan]({{ site.baseurl }}/assets/images/koket.jpg)
 
-### Nassegruppens lokaler
+### Igelkottarnas lokaler
 
 De yngsta barnen har sin hemvist på nedervåningen, med anpassade utrymmen för lek och vila.
 
-![Nassegruppens lokaler - lekrum och skogsrum]({{ site.baseurl }}/assets/images/inomhus-nassegruppen.png)
+![Igelkottarnas lokaler - lekrum och skogsrum]({{ site.baseurl }}/assets/images/inomhus-igelkottarna.png)
 
-### Nalle Puh-gruppen & Fritids
+### Ugglornas & Fritids lokaler
 
 De äldre barnen och fritidsbarnen har sina lokaler på övervåningen. Ofta umgås vi över gränserna, för allas nöjes skull.
 
-![Nalle Puh-gruppens och fritids lokaler]({{ site.baseurl }}/assets/images/inomhus-nallepuh.png)
+![Ugglornas och fritids lokaler]({{ site.baseurl }}/assets/images/inomhus-ugglorna.png)
 
 ---
 
