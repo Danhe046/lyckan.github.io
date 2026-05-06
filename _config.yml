@@ -1,3 +1,33 @@
-theme: jekyll-theme-minimal
-title: Lyckan test
-description: Bookmark this to keep an eye on my project updates!
+title: "Lyckan - Förskola & Fritids"
+description: "En förskola och ett fritids med det där lilla extra, i hjärtat av Småland"
+baseurl: ""
+url: ""
+lang: sv
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Navigation
+navigation:
+  - title: Hem
+    url: /
+  - title: Om Oss
+    url: /om-oss/
+  - title: Våra Faciliteter
+    url: /faciliteter/
+    children:
+      - title: Inomhus
+        url: /faciliteter/inomhus/
+      - title: Gården
+        url: /faciliteter/garden/
+      - title: Närmiljön
+        url: /faciliteter/narmiljon/
+  - title: Kontakt
+    url: /kontakt/
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
