@@ -220,6 +220,16 @@ img {
 }
 
 .hero-image {
+  max-width: 500px;
+  width: 90%;
+  margin-top: 2rem;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+  position: relative;
+  z-index: 1;
+}
+
+.hero-image {
   margin-top: 2rem;
   max-width: 500px;
   border-radius: var(--radius-lg);

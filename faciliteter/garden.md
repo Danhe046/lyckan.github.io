@@ -8,7 +8,7 @@ permalink: /faciliteter/garden/
 
 Våra stora ytor inspirerar till aktivitet och sport. Här får alla plats, stora som små!
 
-![Bokbussen "Böcker på väg" kommer på besök](/assets/images/bokbussen.jpg)
+![Bokbussen "Böcker på väg" kommer på besök]({{ site.baseurl }}/assets/images/bokbussen.jpg)
 
 Vi har förmånen att ha en fantastiskt stor och inbjudande utegård:
 
@@ -29,4 +29,4 @@ Regelbundet hälsar bokbussen på hos oss. Barnen följer med ut och väljer bla
 
 ---
 
-[← Tillbaka till Faciliteter](/faciliteter/){: .btn}
+[← Tillbaka till Faciliteter]({{ site.baseurl }}/faciliteter/){: .btn}

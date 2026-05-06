@@ -24,4 +24,4 @@ Ibland äter vi lunch bland kottar och barr – en lyxig upplevelse som barnen �
 
 ---
 
-[← Tillbaka till Faciliteter](/faciliteter/){: .btn}
+[← Tillbaka till Faciliteter]({{ site.baseurl }}/faciliteter/){: .btn}
