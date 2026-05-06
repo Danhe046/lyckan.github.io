@@ -28,7 +28,7 @@ Tveka inte att höra av dig om du har frågor eller funderingar. Du är varmt v�
   <div class="contact-card">
     <div class="icon">📞</div>
     <h3>Telefon</h3>
-    <p><em>0383-82075</em></p>
+    <p><a href="tel:+4638382075">0383-82075</a></p>
   </div>
 </div>
 
