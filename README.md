@@ -18,7 +18,6 @@ Alla sidor skrivs i Markdown (`.md`-filer). Redigera texten direkt och pusha til
 
 ## Anpassad domän
 
-När du är redo att flytta domänen `föräldrakooplyckan.se`:
-1. Lägg till en fil `CNAME` med innehållet: `föräldrakooplyckan.se`
-2. Konfigurera DNS hos din domänregistrar (peka mot GitHub Pages IP-adresser)
-3. Aktivera HTTPS i repository Settings → Pages
+Sidan körs på den anpassade domänen `föräldrakooplyckan.se` (punycode: `xn--frldrakooplyckan-wnb63a.se`).
+
+DNS pekar mot GitHub Pages och HTTPS är aktiverat via repository Settings → Pages.
