@@ -20,15 +20,10 @@ Tveka inte att höra av dig om du har frågor eller funderingar. Du är varmt v�
   </div>
 
   <div class="contact-card">
-    <div class="icon">📘</div>
-    <h3>Facebook</h3>
-    <p><a href="http://www.facebook.com/groups/731336876958097/?fref=ts" target="_blank" rel="noopener">Följ oss på Facebook</a></p>
-  </div>
-
-  <div class="contact-card">
     <div class="icon">📞</div>
     <h3>Telefon</h3>
     <p><a href="tel:+4638382075">0383-82075</a></p>
+    <p><a href="tel:+46724533478">0724-533478</a></p>
   </div>
 </div>
 

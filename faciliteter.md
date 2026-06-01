@@ -17,7 +17,7 @@ Lyckan har fantastiska lokaler och omgivningar som inspirerar barn till lek, lä
   <div class="feature-card">
     <div class="card-body">
       <h3>🌳 Gården</h3>
-      <p>Vi har förmånen att ha en fantastiskt stor och inbjudande utegård. Stora öppna gräsplaner, lekstugor, cykel- och bollplan, sandlåda, tunnel, gungor, rutschkana, båt och en stor trähäst.</p>
+      <p>Vi har förmånen att ha en fantastiskt stor och inbjudande utegård. Stora öppna gräsplaner, lekstugor, cykel- och bollplan, sandlåda, gungor, rutschkana och gungbrädor.</p>
       <a href="{{ site.baseurl }}/faciliteter/garden/" class="btn">Se mer →</a>
     </div>
   </div>
