@@ -19,5 +19,3 @@ Alla sidor skrivs i Markdown (`.md`-filer). Redigera texten direkt och pusha til
 ## Anpassad domän
 
 Sidan körs på den anpassade domänen `föräldrakooplyckan.se` (punycode: `xn--frldrakooplyckan-wnb63a.se`).
-
-DNS pekar mot GitHub Pages och HTTPS är aktiverat via repository Settings → Pages.
