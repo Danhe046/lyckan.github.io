@@ -22,6 +22,10 @@ Vi har förmånen att ha en fantastiskt stor och inbjudande utegård:
 
 Året om nyttjar vi gården – utelivet är en del av vår vardag. På sommaren svalkas varma fötter och på vintern byggs snögubbar.
 
+![Vintermorgon på Lyckan]({{ site.baseurl }}/assets/images/Vintermorgon.jpeg)
+
+![Sommarfest på gården]({{ site.baseurl }}/assets/images/Sommarfest.jpeg)
+
 ### Bokbussen
 
 Regelbundet hälsar bokbussen på hos oss. Barnen följer med ut och väljer bland läslysten.
