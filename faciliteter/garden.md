@@ -16,8 +16,7 @@ Vi har förmånen att ha en fantastiskt stor och inbjudande utegård:
 - 🏠 Lekstugor
 - 🚲 Cykel- och bollplan med tankstation och garage
 - 🏖️ Sandlåda
-- 🎢 Tunnel, gungor och rutschkana
-- ⛵ Båt och en stor trähäst
+- 🎢 Tunnel, gungor, gungbrädor och rutschkana
 
 ### Året runt
 
