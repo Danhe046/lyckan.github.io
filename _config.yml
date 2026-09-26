@@ -25,6 +25,8 @@ navigation:
         url: /#garden
       - title: Närmiljön
         url: /#narmiljon
+  - title: Dokument
+    url: /dokument/
   - title: Kontakt
     url: /kontakt/
 

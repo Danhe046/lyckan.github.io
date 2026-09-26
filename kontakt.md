@@ -27,9 +27,10 @@ Tveka inte att höra av dig om du har frågor eller funderingar. Du är varmt v�
   </div>
 </div>
 
+
 ## Skicka ett meddelande
 
-Fyll i formuläret så återkommer vi så snart vi kan!
+Har du en fråga och vill veta mer så kan du även skriva här, så återkommer vi så snart vi kan!
 
 <div id="tack" class="tack-message">✅ Tack! Vi hör av oss så snart vi kan!</div>
 
