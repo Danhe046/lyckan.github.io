@@ -27,6 +27,28 @@ Tveka inte att höra av dig om du har frågor eller funderingar. Du är varmt v�
   </div>
 </div>
 
+## Skicka ett meddelande
+
+Fyll i formuläret så återkommer vi så snart vi kan!
+
+<div id="tack" class="tack-message">✅ Tack! Vi hör av oss så snart vi kan!</div>
+
+<form action="https://formspree.io/f/xeaoldwv" method="POST" class="contact-form">
+  <label for="name">Namn</label>
+  <input type="text" id="name" name="name" autocomplete="name" required>
+
+  <label for="email">E-post</label>
+  <input type="email" id="email" name="_replyto" autocomplete="email" required>
+
+  <label for="message">Meddelande</label>
+  <textarea id="message" name="message" rows="6" required></textarea>
+
+  <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
+  <input type="hidden" name="_next" value="{{ site.url }}{{ '/kontakt/' | relative_url }}#tack">
+
+  <button type="submit" class="btn">Skicka meddelande</button>
+</form>
+
 ## Hitta hit
 
 Lyckan ligger i Näshult, Vetlanda kommun – i hjärtat av Småland. Bland betesmarker, ängar och skog finner du vår faluröda skolbyggnad med vita knutar.
