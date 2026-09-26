@@ -6,6 +6,14 @@ permalink: /kontakt/
 
 Tveka inte att höra av dig om du har frågor eller funderingar. Du är varmt välkommen på ett besök!
 
+## Vill du söka plats?
+
+Ansökan om plats i förskola eller fritidshem görs inte direkt hos oss, utan hos **Vetlanda kommun**, i tjänsten [Edlevo](https://sjalvservice.vetlanda.se/edlevo){: target="_blank" rel="noopener"}. Du kan ansöka så snart du vet när du behöver plats.
+
+När du ansöker väljer du tre alternativ i den ordning du önskar dem.
+
+[Läs mer om ansökan hos Vetlanda kommun →](https://www.vetlanda.se/forskola-och-skola/forskola-och-pedagogisk-omsorg/ansok-om-plats-i-forskola-eller-pedagogisk-omsorg){: .btn}
+
 <div class="contact-grid">
   <div class="contact-card">
     <div class="icon">📧</div>
