@@ -9,20 +9,22 @@ markdown: kramdown
 permalink: pretty
 
 # Navigation
+# Hem, Om Oss och Faciliteter är sektioner på startsidan (ankarlänkar).
+# Kontakt är fortsatt en egen sida.
 navigation:
   - title: Hem
     url: /
   - title: Om Oss
-    url: /om-oss/
+    url: /#om-oss
   - title: Våra Faciliteter
-    url: /faciliteter/
+    url: /#faciliteter
     children:
       - title: Inomhus
-        url: /faciliteter/inomhus/
+        url: /#inomhus
       - title: Gården
-        url: /faciliteter/garden/
+        url: /#garden
       - title: Närmiljön
-        url: /faciliteter/narmiljon/
+        url: /#narmiljon
   - title: Kontakt
     url: /kontakt/
 
